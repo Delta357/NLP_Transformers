@@ -1,2 +1,7 @@
-# NLP_Transformers
-Projeto e estudo voltado processamento de linaugem natural com Transformers com alguns modelos de BERT, RoBERTa, XLNet, Transformer-XL.
+## Processamento linguagem natural - Transformer
+
+O projeto consiste em um estudo avançado no campo do processamento de linguagem natural (PLN), com foco no uso de Transformer, em particular os modelos BERT, RoBERTa, XLNet e Transformer-XL. Esses modelos têm se destacado na comunidade de PLN devido à sua capacidade de lidar com tarefas complexas, como reconhecimento de entidades nomeadas, classificação de sentimentos e tradução automática.
+
+O objetivo principal deste projeto é explorar e aprimorar a eficiência e a precisão desses modelos em uma variedade de tarefas de PLN. Pretendemos investigar como esses Transformer podem ser aplicados de maneira mais eficaz para lidar com diferentes tipos de dados linguísticos, como textos longos, textos em diferentes idiomas e textos com contextos ambíguos. Para alcançar esse objetivo, utilizaremos uma combinação de técnicas de pré-processamento, treinamento e ajuste fino dos modelos de BERT, RoBERT, XLNet e Transformer-XL. Faremos uma análise comparativa desses modelos em termos de desempenho, eficiência computacional e requisitos de recursos. Além disso, exploraremos estratégias de otimização para melhorar ainda mais o desempenho desses transformadores, como ajuste de hiperparâmetros, regularização, técnicas de amostragem e pré-treinamento incremental. Com isso, esperamos obter resultados significativos e contribuir para o avanço do estado-da-arte no processamento de linguagem natural. Em resumo, este projeto envolve um estudo aprofundado do processamento de linguagem natural utilizando Transformer, com foco nos modelos BERT, RoBERTa, XLNet e Transformer-XL. 
+
+Com uma abordagem sistemática e uma análise comparativa detalhada, esperamos aprimorar esses modelos e contribuir para o desenvolvimento de soluções mais eficientes e precisas no campo do PLN.
